@@ -1,0 +1,9 @@
+.hastag{
+    padding:2px;
+    color: #11111199;
+}
+.hastag:hover{
+    color: red;
+    cursor: pointer;
+
+}
