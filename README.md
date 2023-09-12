@@ -1,8 +1,5 @@
-# React + Vite
+# Knowledge App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I created this app because it helped me to know lifting drilling and many more things One more thing don't copy this code just run this project and try to understand how to work these things. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

@@ -5,6 +5,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
+body {
   font-family: 'Exo 2', sans-serif;
 }
